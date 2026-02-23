@@ -1,0 +1,8 @@
+# llm output validation
+pydantic
+
+# testing harness
+pytest
+
+#openai
+openai
