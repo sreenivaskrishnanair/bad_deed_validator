@@ -1,4 +1,4 @@
-# Propy Test
+# Bad deed validator
 
 ## design philosophy
 
